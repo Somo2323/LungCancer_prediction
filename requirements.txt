@@ -1,0 +1,8 @@
+mediapipe
+﻿streamlit
+numpy
+tensorflow
+opencv-python
+protobuf==4.25.3
+datetime
+python-time
